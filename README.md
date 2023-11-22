@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A basic calculator web application built with HTML, CSS, and JavaScript. This calculator mimics the functionality of a standard calculator for iphone, with a simple and intuitive user interface.
+A basic calculator web application built with HTML, CSS, and JavaScript. This calculator mimics the functionality of a standard calculator for iPhone, with a simple and intuitive user interface.
 
 ## Features
 
